@@ -1,0 +1,25 @@
+button {
+    width: 100px;
+    position: absolute;
+    text-align: center;
+}
+
+.reset {
+    top: 30%;
+    right: 10%;
+}
+
+.play {
+    top: 45%;
+    right: 10%;
+}
+
+.cross_type {
+    top: 60%;
+    right: 10%;
+}
+
+.o_type {
+    top: 63%;
+    right: 10%;
+}
